@@ -1,7 +1,7 @@
 # Kang Min Young 😉
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFE3F5&title_bg=%23FFACAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![MinYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyKang&show_icons=true&theme=radical)
+![Min Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyKang&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algh5304)](https://solved.ac/algh5304/)
 
 # 💪Skills
