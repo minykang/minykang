@@ -36,7 +36,8 @@
 ### 🏫 WooriFISA Projects
 | Project | Terms | Topic | Data | GitHub |
 |---|---|---|---|---|
-| [git 실습](https://github.com/minykang/git-test) | 2026.01.07 | (Placeholder) will be updated with WooriFISA projects | - | [Repo](https://github.com/minykang/git-test) |
+| [git 실습](https://github.com/minykang/git-test) | 2026.01.07 | 깃허브 환경 설정 및 실습 | - | [Repo](https://github.com/minykang/git-test) |
+| [streamTest](https://github.com/minykang/streamTest) | 2026.01.07 | Java Stream 성능 최적화 실험 (Parallel / Intermediate Operations) | - | [Repo](https://github.com/minykang/streamTest) |
 
 <br/>
 <hr/>
