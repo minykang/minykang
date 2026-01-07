@@ -27,7 +27,7 @@
 
 ### 🎓 University Projects
 | Project | Terms | Topic | Data | GitHub |
-|---|---:|---|---|---|
+|---|---|---|---|---|
 | [AI_Defect_Classification](https://github.com/minykang/AI_Defect_Classification) | 2024.06 ~ 2024.08 | 영상 기반 결함 분류 모델 실험 및 성능 개선(Mixup/CutMix, 모델 비교) | 제조 결함 이미지 데이터 | [Repo](https://github.com/minykang/AI_Defect_Classification) · [Issues](https://github.com/minykang/AI_Defect_Classification/issues) |
 | [TFHE-Based Authentication System (FE-Web)](https://github.com/TFHE-Based-Authentication-System/FE-Web) | 2025.03 ~ 2025.06 | 동형암호(TFHE) 기반 얼굴 인증 시스템 프론트엔드 구현 | 사용자 입력/인증 UI 흐름 | [Repo](https://github.com/TFHE-Based-Authentication-System/FE-Web) · [Issues](https://github.com/TFHE-Based-Authentication-System/FE-Web/issues) |
 
@@ -35,7 +35,7 @@
 
 ### 🏫 WooriFISA Projects
 | Project | Terms | Topic | Data | GitHub |
-|---|---:|---|---|---|
+|---|---|---|---|---|
 | [git 실습](https://github.com/minykang/git-test) | 2026.01.07 | (Placeholder) will be updated with WooriFISA projects | - | [Repo](https://github.com/minykang/git-test) |
 
 <br/>
