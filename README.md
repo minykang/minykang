@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&pause=1200&color=6CB6FF&center=true&vCenter=true&width=980&height=90&lines=Welcome+to+Minyoung%27s+GitHub%21+%F0%9F%91%8B" alt="Typing SVG" />
@@ -9,12 +8,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6CB6FF&center=true&vCenter=true&width=980&height=40&lines=Cloud+Engineer+%7C+DevOps+Learner+%7C+Backend" alt="Typing SVG" />
 </p>
 
+<br/>
+
+<br/>
+
+## 👑 Algorithm Ranking
+<p>
+  <a href="https://solved.ac/algh5304/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=algh5304" alt="Solved.ac Profile" />
+  </a>
+</p>
+
+<br/>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFE3F5&title_bg=%23FFACAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minykang&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=algh5304)](https://solved.ac/algh5304/)
 
 ## ✅ Projects
 
@@ -22,13 +29,18 @@
 | Project | Terms | Topic | Data | GitHub |
 |---|---:|---|---|---|
 | [AI_Defect_Classification](https://github.com/minykang/AI_Defect_Classification) | 2024.06 ~ 2024.08 | 영상 기반 결함 분류 모델 실험 및 성능 개선(Mixup/CutMix, 모델 비교) | 제조 결함 이미지 데이터 | [Repo](https://github.com/minykang/AI_Defect_Classification) · [Issues](https://github.com/minykang/AI_Defect_Classification/issues) |
-| [TFHE-Based Authentication System (FE-Web)](https://github.com/TFHE-Based-Authentication-System/FE-Web) | 2025.03 ~ 202.06 | 동형암호(TFHE) 기반 얼굴 인증 시스템 프론트엔드 구현 | 사용자 입력/인증 UI 흐름 | [Repo](https://github.com/TFHE-Based-Authentication-System/FE-Web) · [Issues](https://github.com/TFHE-Based-Authentication-System/FE-Web/issues) |
+| [TFHE-Based Authentication System (FE-Web)](https://github.com/TFHE-Based-Authentication-System/FE-Web) | 2025.03 ~ 2025.06 | 동형암호(TFHE) 기반 얼굴 인증 시스템 프론트엔드 구현 | 사용자 입력/인증 UI 흐름 | [Repo](https://github.com/TFHE-Based-Authentication-System/FE-Web) · [Issues](https://github.com/TFHE-Based-Authentication-System/FE-Web/issues) |
+
+<br/>
 
 ### 🏫 WooriFISA Projects
 | Project | Terms | Topic | Data | GitHub |
 |---|---:|---|---|---|
 | [git 실습](https://github.com/minykang/git-test) | 2026.01.07 | (Placeholder) will be updated with WooriFISA projects | - | [Repo](https://github.com/minykang/git-test) |
 
+<br/>
+<hr/>
+<br/>
 
 ## 🪄 Tech Stack
 
@@ -65,7 +77,10 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+<br/>
+<hr/>
+<br/>
 
-# :mailbox_with_mail: Contacts
+## 📮 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:algh5304@gmail.com)](mailto:algh5304@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:algh5304@naver.com)](mailto:algh5304@naver.com)
