@@ -33,11 +33,24 @@
 
 <br/>
 
-### 🏫 WooriFISA Projects
+### ☁️ Tech Projects
 | Project | Terms | Topic | Data | GitHub |
 |---|---|---|---|---|
-| [git 실습](https://github.com/minykang/git-test) | 2026.01.07 | 깃허브 환경 설정 및 실습 | - | [Repo](https://github.com/minykang/git-test) |
-| [streamTest](https://github.com/minykang/streamTest) | 2026.01.07 | Java Stream 성능 최적화 실험 (Parallel / Intermediate Operations) | - | [Repo](https://github.com/minykang/streamTest) |
+| [Vibecode RAG Refactor](https://github.com/minykang/vibecode-rag-refactor) | 2026.01 | n8n 기반 RAG 파이프라인을 활용한 Slack용 Java 리팩토링 자동화 봇 | Java 스타일 가이드, 리팩토링 규칙 문서 | [Repo](https://github.com/minykang/vibecode-rag-refactor) |
+| [VMware Virtualization Lab](https://github.com/minykang/vmware-virtualization-lab) | 2026.02 ~ 2026.03 | vCenter 기반 ESXi 클러스터, 공유 스토리지, HA/DRS를 포함한 가상화 인프라 구축 | ESXi 호스트, vCenter, iSCSI/NFS 스토리지 | [Repo](https://github.com/minykang/vmware-virtualization-lab) |
+| [Otel SolarWinds Monitoring](https://github.com/minykang/Otel-Solarwinds-Monitoring) | 2026.03 ~ 2026.04 | OpenTelemetry + SolarWinds 기반 Metrics, Traces, Logs 연계 Observability 실습 | Linux/Windows VM 텔레메트리 데이터 | [Repo](https://github.com/minykang/Otel-Solarwinds-Monitoring) |
+
+<br/>
+
+### 🧪 Study Projects
+| Project | Terms | Topic | Data | GitHub |
+|---|---|---|---|---|
+| [git-test](https://github.com/minykang/git-test) | 2026.01 | Git/GitHub 기본 사용 및 버전 관리 실습 | - | [Repo](https://github.com/minykang/git-test) |
+| [streamTest](https://github.com/minykang/streamTest) | 2026.01 | Java Stream 성능 최적화 실험 (Parallel / Intermediate Operations) | - | [Repo](https://github.com/minykang/streamTest) |
+| [ELK Financial Customer Insight](https://github.com/minykang/ELK-Financial-Customer-Insight) | 2026.01 | Elasticsearch와 Kibana를 활용한 금융 데이터 분석 및 잠재고객 세분화 | 금융 소비 데이터 | [Repo](https://github.com/minykang/ELK-Financial-Customer-Insight) |
+| [springboot-jar-deploy](https://github.com/minykang/springboot-jar-deploy) | 2026.03 | Spring Boot JAR 전송 기반 자동 재배포 실습 | Spring Boot JAR 파일 | [Repo](https://github.com/minykang/springboot-jar-deploy) |
+| [fisa_docker](https://github.com/minykang/fisa_docker) | 2026.03 | Docker 이미지 최적화 및 경량화 실습 | Dockerfile, 컨테이너 이미지 | [Repo](https://github.com/minykang/fisa_docker) |
+| [kubernetes-Ntier-lab](https://github.com/minykang/kubernetes-Ntier-lab) | 2026.03 | Kubernetes 기반 Spring Boot + MySQL N-tier 서비스 배포 실습 | Kubernetes YAML, Spring Boot, MySQL | [Repo](https://github.com/minykang/kubernetes-Ntier-lab) |
 
 <br/>
 <hr/>
