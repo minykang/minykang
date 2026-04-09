@@ -45,7 +45,6 @@
 ### 🧪 Study Projects
 | Project | Terms | Topic | Data | GitHub |
 |---|---|---|---|---|
-| [git-test](https://github.com/minykang/git-test) | 2026.01 | Git/GitHub 기본 사용 및 버전 관리 실습 | - | [Repo](https://github.com/minykang/git-test) |
 | [streamTest](https://github.com/minykang/streamTest) | 2026.01 | Java Stream 성능 최적화 실험 (Parallel / Intermediate Operations) | - | [Repo](https://github.com/minykang/streamTest) |
 | [ELK Financial Customer Insight](https://github.com/minykang/ELK-Financial-Customer-Insight) | 2026.01 | Elasticsearch와 Kibana를 활용한 금융 데이터 분석 및 잠재고객 세분화 | 금융 소비 데이터 | [Repo](https://github.com/minykang/ELK-Financial-Customer-Insight) |
 | [springboot-jar-deploy](https://github.com/minykang/springboot-jar-deploy) | 2026.03 | Spring Boot JAR 전송 기반 자동 재배포 실습 | Spring Boot JAR 파일 | [Repo](https://github.com/minykang/springboot-jar-deploy) |
@@ -94,6 +93,31 @@
 <br/>
 <hr/>
 <br/>
+
+
+ 
+## 🎖️ Certifications & Language
+ 
+| 구분 | 자격 / 점수 |
+|---|---|
+| 📜 자격증 | SQLD (SQL Developer) | 
+| 📜 자격증 | 리눅스마스터 2급 | 
+| 🌐 어학 | OPIc **AL** | 
+ 
+<br/>
+<hr/>
+<br/>
+
+## 🏆 Awards
+
+| Award | Organizer | Date |
+|---|---|---|
+| 2024 인하 인공지능 챌린지 우수상 (학부생 부문) | 인하대학교 인공지능융합연구센터 · BK 산업융합형 차세대 인공지능 혁신인재 교육연구단 | 2024.08.28 |
+
+<br/>
+<hr/>
+<br/>
+
 
 ## 📮 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:algh5304@gmail.com)](mailto:algh5304@gmail.com)
