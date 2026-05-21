@@ -12,16 +12,38 @@
 
 <br/>
 
-## 👑 Algorithm Ranking
-<p>
-  <a href="https://solved.ac/algh5304/">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=algh5304" alt="Solved.ac Profile" />
-  </a>
-</p>
+<br/>
+<hr/>
+<br/>
+
+## 🗓️ Experience & Education
+
+| 기간 | 내용 |
+|------|------|
+| 2021.03 ~ 2026.02 | **인하대학교** 정보통신공학과 졸업 |
+| 2026.01 ~ 2026.04 | **우리FIS아카데미** Cloud 과정 |
+| 2026.05 ~ 진행중 | **SK증권** 인프라시스템부 인턴 |
 
 <br/>
 
+## 🎖️ Certifications & Language
+ 
+| 구분 | 자격 / 점수 |
+|---|---|
+| 🌐 어학 | OPIc **AL** | 
+| 📜 자격증 | SQLD (SQL Developer) | 
+| 📜 자격증 | 리눅스마스터 2급 | 
 
+ 
+<br/>
+
+## 🏆 Awards
+
+| Award | Organizer | Date |
+|---|---|---|
+| 2024 인하 인공지능 챌린지 우수상 (학부생 부문) | 인하대학교 인공지능융합연구센터 · BK 산업융합형 차세대 인공지능 혁신인재 교육연구단 | 2024.08.28 |
+
+<br/>
 
 ## ✅ Projects
 
@@ -94,25 +116,12 @@
 <hr/>
 <br/>
 
-
- 
-## 🎖️ Certifications & Language
- 
-| 구분 | 자격 / 점수 |
-|---|---|
-| 📜 자격증 | SQLD (SQL Developer) | 
-| 📜 자격증 | 리눅스마스터 2급 | 
-| 🌐 어학 | OPIc **AL** | 
- 
-<br/>
-<hr/>
-<br/>
-
-## 🏆 Awards
-
-| Award | Organizer | Date |
-|---|---|---|
-| 2024 인하 인공지능 챌린지 우수상 (학부생 부문) | 인하대학교 인공지능융합연구센터 · BK 산업융합형 차세대 인공지능 혁신인재 교육연구단 | 2024.08.28 |
+## 👑 Algorithm Ranking
+<p>
+  <a href="https://solved.ac/algh5304/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=algh5304" alt="Solved.ac Profile" />
+  </a>
+</p>
 
 <br/>
 <hr/>
